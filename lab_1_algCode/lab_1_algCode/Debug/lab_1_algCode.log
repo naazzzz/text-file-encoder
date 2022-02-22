@@ -1,0 +1,7 @@
+﻿  lab_1_algCode.cpp
+D:\source\repos\lab_1_algCode\lab_1_algCode\lab_1_algCode.cpp(64,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\lab_1_algCode\lab_1_algCode\lab_1_algCode.cpp(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\lab_1_algCode\lab_1_algCode\lab_1_algCode.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\lab_1_algCode\lab_1_algCode\lab_1_algCode.cpp(153,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\source\repos\lab_1_algCode\lab_1_algCode\lab_1_algCode.cpp(201,7): warning C4101: rep1: неиспользованная локальная переменная
+  lab_1_algCode.vcxproj -> D:\source\repos\lab_1_algCode\Debug\lab_1_algCode.exe
